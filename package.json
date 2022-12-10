@@ -22,7 +22,7 @@
     "body-parser": "^1.19.0",
     "config": "^3.1.0",
     "deo": "0.0.2",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "graphql": "^14.3.1",
     "jwt-simple": "^0.5.6",
     "lodash": "^4.17.11",
